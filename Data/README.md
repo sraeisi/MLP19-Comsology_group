@@ -22,4 +22,4 @@ I use illustris-3 (hydro dynamic simulation) and illustris-3-dark( N-body dark m
 
 ![alt text](https://raw.githubusercontent.com/sraeisi/MLP19-Comsology_group/zahrabaghkhani-patch-1/Data/1.jpg)
 ![alt text](https://raw.githubusercontent.com/sraeisi/MLP19-Comsology_group/zahrabaghkhani-patch-1/Data/2.jpg)
-![alt text](https://raw.githubusercontent.com/zahrabaghkhani/cosmology/new/data/3.jpg?token=AtrysfvczsvVMStgTBn7gIedHlHcx2NEks5cjC-xwA%3D%3D)
+![alt text](https://raw.githubusercontent.com/sraeisi/MLP19-Comsology_group/zahrabaghkhani-patch-1/Data/3.jpg)
