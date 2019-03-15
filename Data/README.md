@@ -17,3 +17,9 @@ Thus we used HDF file reader to access data very quickly. The following features
 ![alt text](https://github.com/sraeisi/MLP19-Comsology_group/blob/SetarehForoozan-patch-2/Star%20Formation%20Rate%20vs%20Halo%20Mass.png)
 
 ![alt text](https://github.com/sraeisi/MLP19-Comsology_group/blob/SetarehForoozan-patch-2/Velocity_Histogram.png)
+
+I use illustris-3 (hydro dynamic simulation) and illustris-3-dark( N-body dark matter simulation). I take the position of dark matter particles(from illusris3_dark) and galaxies(from illustris 3). The data has 94,196,375 dark matter particles and 121,208 galaxies. I plot 2d histogram of them and 3d plot of galaxies in box(75 X 75 Mpc). 
+
+![alt text](https://raw.githubusercontent.com/zahrabaghkhani/cosmology/new/data/1.jpg?token=AtrysU7eE74UZQC5EgQaC6BbtA2mjbRYks5cjC9TwA%3D%3D)
+![alt text](https://raw.githubusercontent.com/zahrabaghkhani/cosmology/new/data/2.jpg?token=Atrysda6jlowdVkn9iFACB6UI4IKbeKoks5cjC-JwA%3D%3D)
+![alt text](https://raw.githubusercontent.com/zahrabaghkhani/cosmology/new/data/3.jpg?token=AtrysfvczsvVMStgTBn7gIedHlHcx2NEks5cjC-xwA%3D%3D)
