@@ -18,7 +18,7 @@ Thus we used HDF file reader to access data very quickly. The following features
 
 ![alt text](https://github.com/sraeisi/MLP19-Comsology_group/blob/SetarehForoozan-patch-2/Velocity_Histogram.png)
 
-I use illustris-3 (hydro dynamic simulation) and illustris-3-dark( N-body dark matter simulation). I take the position of dark matter particles(from illusris3_dark) and galaxies(from illustris 3). The data has 94,196,375 dark matter particles and 121,208 galaxies. I plot 2d histogram of them and 3d plot of galaxies in box(75 X 75 Mpc). 
+we used illustris-3 (hydro dynamic simulation) and illustris-3-dark( N-body dark matter simulation). we took the position of dark matter particles(from illusris3_dark) and galaxies(from illustris 3) . The data has 94,196,375 dark matter particles and 121,208 galaxies. we plotted 2d histogram of them and 3d plot of galaxies in simulation box(75 X 75 X 75 Mpc). 
 
 ![alt text](https://raw.githubusercontent.com/sraeisi/MLP19-Comsology_group/zahrabaghkhani-patch-1/Data/1.jpg)
 ![alt text](https://raw.githubusercontent.com/sraeisi/MLP19-Comsology_group/zahrabaghkhani-patch-1/Data/2.jpg)
