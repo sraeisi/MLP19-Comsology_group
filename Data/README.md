@@ -18,7 +18,8 @@ Thus we used HDF file reader to access data very quickly. The following features
 
 ![alt text](https://github.com/sraeisi/MLP19-Comsology_group/blob/SetarehForoozan-patch-2/Velocity_Histogram.png)
 
-we used illustris-3 (hydro dynamic simulation) and illustris-3-dark( N-body dark matter simulation).in this case, 135th snapshot at redshift 0 is downloaded. data includes only dark matter and galaxy position for the whole simulation box (75 X 75 X 75 Mpc).The data has 94,196,375 dark matter particles and 121,208 galaxies. we plotted 2d histogram of them and 3d plot of galaxies in simulation box. 
+the goal of this project is to find a mapping between N_body simulation and baryonic matter distribution in the hydrodynamic simulation. so we need dark matter distribution in n_body simulation and galaxy distribution in hydrodynamic simulation. 
+we  download some features for the whole simulation box(75 X 75 X 75 MPC). we used illustris-3 (hydro dynamic simulation) and illustris-3-dark( N-body dark matter simulation).in this case, 135th snapshot at redshift 0 is downloaded. data includes only dark matter particles position(from illustris-3 dark) and galaxy position(from illustris-3).The data has 94,196,375 dark matter particles and 121,208 galaxies.
 
 ![alt text](https://raw.githubusercontent.com/sraeisi/MLP19-Comsology_group/zahrabaghkhani-patch-1/Data/1.jpg)
 ![alt text](https://raw.githubusercontent.com/sraeisi/MLP19-Comsology_group/zahrabaghkhani-patch-1/Data/2.jpg)
