@@ -23,4 +23,4 @@ we  download some features for the whole simulation box(75 X 75 X 75 MPC). we us
 
 ![alt text](https://raw.githubusercontent.com/sraeisi/MLP19-Comsology_group/zahrabaghkhani-patch-1/Data/dm_pos.jpg)
 ![alt text](https://raw.githubusercontent.com/sraeisi/MLP19-Comsology_group/zahrabaghkhani-patch-1/Data/2.jpg)
-![alt text](https://raw.githubusercontent.com/sraeisi/MLP19-Comsology_group/zahrabaghkhani-patch-1/Data/3dgalaxy.jpg)
+![alt text](https://raw.githubusercontent.com/sraeisi/MLP19-Comsology_group/zahrabaghkhani-patch-1/Data/3.jpg)
